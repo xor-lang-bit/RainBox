@@ -10,3 +10,7 @@ Action-based blind hitboxes for Roblox. Server-sided, lag-compensated, rewindabl
 - Fully server-side yet matches the client
   
 theres more but im burnt out of making readmes so pls just use the module </3
+
+
+# MIT License
+# Copyright (c) 2026 Windspace Studio
