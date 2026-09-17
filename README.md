@@ -8,4 +8,5 @@ Action-based blind hitboxes for Roblox. Server-sided, lag-compensated, rewindabl
 - Predictive interpolation between casting / ping
 - Ping grouping
 - Fully server-side yet matches the client
+  
 theres more but im burnt out of making readmes so pls just use the module </3
